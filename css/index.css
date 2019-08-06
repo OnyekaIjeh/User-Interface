@@ -175,6 +175,7 @@ a {
 
 nav a {
   margin-right: 40px;
+  transition: all 1s linear;
 }
 nav a:hover {
   font-weight: bold;
@@ -213,7 +214,7 @@ button {
   padding: 8px 40px;
   cursor: pointer;
   font-size: 18px;
-  /* transition: all 200ms linear; */
+  transition: all 200ms linear;
 }
 
 button:hover {
